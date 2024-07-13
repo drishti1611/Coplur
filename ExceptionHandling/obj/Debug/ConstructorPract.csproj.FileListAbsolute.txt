@@ -1,7 +1,0 @@
-C:\Users\Hp\source\repos\ConstructorPract\ConstructorPract\bin\Debug\ConstructorPract.exe.config
-C:\Users\Hp\source\repos\ConstructorPract\ConstructorPract\bin\Debug\ConstructorPract.exe
-C:\Users\Hp\source\repos\ConstructorPract\ConstructorPract\bin\Debug\ConstructorPract.pdb
-C:\Users\Hp\source\repos\ConstructorPract\ConstructorPract\obj\Debug\ConstructorPract.csproj.AssemblyReference.cache
-C:\Users\Hp\source\repos\ConstructorPract\ConstructorPract\obj\Debug\ConstructorPract.csproj.CoreCompileInputs.cache
-C:\Users\Hp\source\repos\ConstructorPract\ConstructorPract\obj\Debug\ConstructorPract.exe
-C:\Users\Hp\source\repos\ConstructorPract\ConstructorPract\obj\Debug\ConstructorPract.pdb
