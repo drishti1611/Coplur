@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\PesrsonsMail\PesrsonsMail\bin\Debug\PesrsonsMail.exe.config
+C:\Users\Hp\source\repos\PesrsonsMail\PesrsonsMail\bin\Debug\PesrsonsMail.exe
+C:\Users\Hp\source\repos\PesrsonsMail\PesrsonsMail\bin\Debug\PesrsonsMail.pdb
+C:\Users\Hp\source\repos\PesrsonsMail\PesrsonsMail\obj\Debug\PesrsonsMail.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\PesrsonsMail\PesrsonsMail\obj\Debug\PesrsonsMail.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\PesrsonsMail\PesrsonsMail\obj\Debug\PesrsonsMail.exe
+C:\Users\Hp\source\repos\PesrsonsMail\PesrsonsMail\obj\Debug\PesrsonsMail.pdb

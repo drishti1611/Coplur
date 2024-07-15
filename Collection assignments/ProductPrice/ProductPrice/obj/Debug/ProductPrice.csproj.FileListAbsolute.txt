@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\ProductPrice\ProductPrice\bin\Debug\ProductPrice.exe.config
+C:\Users\Hp\source\repos\ProductPrice\ProductPrice\bin\Debug\ProductPrice.exe
+C:\Users\Hp\source\repos\ProductPrice\ProductPrice\bin\Debug\ProductPrice.pdb
+C:\Users\Hp\source\repos\ProductPrice\ProductPrice\obj\Debug\ProductPrice.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\ProductPrice\ProductPrice\obj\Debug\ProductPrice.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ProductPrice\ProductPrice\obj\Debug\ProductPrice.exe
+C:\Users\Hp\source\repos\ProductPrice\ProductPrice\obj\Debug\ProductPrice.pdb

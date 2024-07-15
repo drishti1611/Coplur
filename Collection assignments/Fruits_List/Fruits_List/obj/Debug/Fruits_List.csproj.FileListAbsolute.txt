@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\Fruits_List\Fruits_List\bin\Debug\Fruits_List.exe.config
+C:\Users\Hp\source\repos\Fruits_List\Fruits_List\bin\Debug\Fruits_List.exe
+C:\Users\Hp\source\repos\Fruits_List\Fruits_List\bin\Debug\Fruits_List.pdb
+C:\Users\Hp\source\repos\Fruits_List\Fruits_List\obj\Debug\Fruits_List.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Fruits_List\Fruits_List\obj\Debug\Fruits_List.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Fruits_List\Fruits_List\obj\Debug\Fruits_List.exe
+C:\Users\Hp\source\repos\Fruits_List\Fruits_List\obj\Debug\Fruits_List.pdb

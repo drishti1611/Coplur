@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\StudentSubjectScores\StudentSubjectScores\bin\Debug\StudentSubjectScores.exe.config
+C:\Users\Hp\source\repos\StudentSubjectScores\StudentSubjectScores\bin\Debug\StudentSubjectScores.exe
+C:\Users\Hp\source\repos\StudentSubjectScores\StudentSubjectScores\bin\Debug\StudentSubjectScores.pdb
+C:\Users\Hp\source\repos\StudentSubjectScores\StudentSubjectScores\obj\Debug\StudentSubjectScores.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\StudentSubjectScores\StudentSubjectScores\obj\Debug\StudentSubjectScores.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\StudentSubjectScores\StudentSubjectScores\obj\Debug\StudentSubjectScores.exe
+C:\Users\Hp\source\repos\StudentSubjectScores\StudentSubjectScores\obj\Debug\StudentSubjectScores.pdb

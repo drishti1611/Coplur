@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\StudentMarks\StudentMarks\bin\Debug\StudentMarks.exe.config
+C:\Users\Hp\source\repos\StudentMarks\StudentMarks\bin\Debug\StudentMarks.exe
+C:\Users\Hp\source\repos\StudentMarks\StudentMarks\bin\Debug\StudentMarks.pdb
+C:\Users\Hp\source\repos\StudentMarks\StudentMarks\obj\Debug\StudentMarks.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\StudentMarks\StudentMarks\obj\Debug\StudentMarks.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\StudentMarks\StudentMarks\obj\Debug\StudentMarks.exe
+C:\Users\Hp\source\repos\StudentMarks\StudentMarks\obj\Debug\StudentMarks.pdb
